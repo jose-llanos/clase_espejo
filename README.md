@@ -11,7 +11,9 @@
 
 
 #### ------------
-##### **Autor:** José Miguel Llanos Mosquera
-##### **Fecha:** 01-nov-2023
-##### **Versión:** 0.1
+**Autor:** José Miguel Llanos Mosquera
+
+**Fecha:** 01-nov-2023
+
+**Versión:** 0.1
 
